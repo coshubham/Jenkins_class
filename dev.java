@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class dev {
 
     // This is the main method. It is the entry point of any Java application.
     public static void main(String[] args) {
