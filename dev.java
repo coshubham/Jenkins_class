@@ -2,7 +2,7 @@ public class dev {
 
     // This is the main method. It is the entry point of any Java application.
     public static void main(String[] args) {
-        System.out.println("Hello, Java!");
+        System.out.println("Hello, Java this is dev!");
 
         // Call a method to add two numbers
         int result = addNumbers(10, 20);
